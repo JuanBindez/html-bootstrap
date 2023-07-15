@@ -1,6 +1,10 @@
 # html-bootstrap
 html base bootstrap
 
+### instale o git no linux:
+
+    apt install git
+
 ### Clone o repositorio:
 
     git clone https://github.com/JuanBindez/html-bootstrap/
